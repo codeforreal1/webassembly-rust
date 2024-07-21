@@ -1,0 +1,2 @@
+[alias]
+wasmpack = "bin wasm-pack"
