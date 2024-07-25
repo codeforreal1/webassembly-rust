@@ -2,4 +2,4 @@ bin:
 	cargo bin --install
 
 wasm.build:
-	cargo wasmpack build
+	cargo wasmpack build --target bundler
