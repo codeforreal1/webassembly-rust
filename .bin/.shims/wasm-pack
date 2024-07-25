@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-if [ ! -t 0 ]; then
-    cat - | cargo bin wasm-pack "$@"
-else
-    cargo bin wasm-pack "$@"
-fi
