@@ -1,5 +1,5 @@
 bin:
 	cargo bin --install
 
-wasm-build:
+wasm.build:
 	cargo wasmpack build
