@@ -1,7 +1,6 @@
 # Png image compression app using Web-Assembly & Rust
 
 A png image compression app that compressed image fully locally on browser.
-![alt text](image.png)
 
 ### Building
 
