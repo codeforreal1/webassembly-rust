@@ -1,6 +1,7 @@
 # Png image compression app using Web-Assembly & Rust
 
 A png image compression app that compressed image fully locally on browser.
+![alt text](image.png)
 
 ### Building
 
@@ -22,3 +23,7 @@ You can now compile web-assembly code using:
 
 > make wasm.build
 ```
+
+### Flow:
+
+<img src="./flowchart.png" />
