@@ -24,6 +24,6 @@ You can now compile web-assembly code using:
 > make wasm.build
 ```
 
-### Flow:
+### Flow
 
 <img src="./flowchart.png" />
